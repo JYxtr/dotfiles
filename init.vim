@@ -4,7 +4,6 @@
 "  | | | || \__.,| \__. | \ \/ /  | |  | | | | | |  
 " [___||__]'.__.' '.__.'   \__/  [___][___||__||__] 
 "                                                  
-" Author: Jordan Yates
 " Date: 10th December 2021
 " Desc: My (sorta) lightweight nvim conf
 
